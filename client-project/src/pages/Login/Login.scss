@@ -1,0 +1,24 @@
+@import "../../scss/index.scss";
+
+.login-form {
+    width: 50%;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    .login-form-button {
+      width: 50%; 
+    }
+    .ant-form-item {
+        width: 100%;
+        margin-bottom: 15px;
+    
+        .ant-input-affix-wrapper {
+          width: 100%;
+        }
+      }
+    
+  
+  }
+  
